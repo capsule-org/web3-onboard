@@ -177,6 +177,7 @@ We recommend you add the [Core Repo](../../modules/core.md#install) and consider
 
 - [Arcana Auth](../../wallets/arcana.md#install)
 - [Blocto](../../wallets/blocto.md#install)
+- [Capsule](packages/capsule/README.md)
 - [Coinbase](../../wallets/coinbase.md#install)
 - [Fortmatic](../../wallets/fortmatic.md#install)
 - [Frame](../../wallets/frame.md#install)

@@ -16,5 +16,5 @@ export type CapsuleInitOptions = {
   apiKey: string
   constructorOpts?: ConstructorOpts
   appName: string
-  modalProps: CapsuleModalV2Props
+  modalProps?: CapsuleModalV2Props
 }

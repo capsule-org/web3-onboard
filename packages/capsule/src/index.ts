@@ -2,7 +2,7 @@ import type { AppMetadata, EIP1193Provider, WalletInit } from '@web3-onboard/com
 import type { CapsuleInitOptions } from './types'
 import type { Chain } from '@wagmi/chains'
 import type { Chain as BlocknativeChain } from '@web3-onboard/common'
-import { Environment as CapsuleEnvironment, OAuthMetho as} from '@usecapsule/web-sdk'
+import { Environment as CapsuleEnvironment } from '@usecapsule/web-sdk'
 
 type ChainId = number
 type ChainsMap = Map<ChainId, Chain>
